@@ -1,0 +1,66 @@
+header
+  withe 1336px
+  backgraund #3f4142
+  padding 31px 133px 0 215px 
+  
+  zayavka 250px 37px 
+  font tahoma reg 18px
+  
+  zakaz zvon 
+  font tahoma reg 14px
+  number
+  font tahoma reg 18px #f3af00
+  
+main 
+  color #949ba3
+  padding 25px 0 100px 0
+  font TimeNR reg 48px
+  font TimeNR reg 30px
+  
+div
+  action 
+  font verdana reg 48 px #f3af00
+  font verdana reg 30 px #ffffff
+  time
+   font verdana reg 30 px #010101
+    font verdana reg 14 px #ffffff
+   send
+   font verdana reg 24 px #ffffff
+    font verdana reg 16 px #ffffff
+    send 212px 37px
+     countbox-num
+      withe 62px
+    height 63px
+     countbox-space
+     withe 9px
+    countbox-num-item
+    withe 29px
+    height 44px
+    marg left 3px
+ section
+    font verdana reg 36px # 3b3d3e
+    font verdana reg 14px # 3b3d3e
+    font verdana reg 36px # ffffff
+     font verdana reg 18px # ffffff
+     input 211px 30 px margin rigt 35 px
+     
+ otziv
+     font verdana reg 48px # 3b3d3e
+     icon 152px 152 px
+      font verdana reg 24px # 3b3d3e
+      font verdana reg 16px # 3b3d3e
+      font verdana reg 14px # 3b3d3e
+   kontakty
+        map 510px 306px
+       font verdana reg 36px # ffffff
+       font tahoma reg 18px # ffffff
+       font tahoma reg 14px # ffffff
+       font tahoma reg 14px # f3af00
+       padding top 45px
+       with ul 307px
+       
+       
+ footer
+      font verdana 14px #ffffff
+      padding 60px 0 70px 0
+       
